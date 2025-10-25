@@ -1,1 +1,1 @@
-print(hello world).end=
+print(my name is nabeel)
