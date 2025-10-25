@@ -1,5 +1,3 @@
 print("nabeel rafique")
 
 input("hello world")
-
-print("hello world")

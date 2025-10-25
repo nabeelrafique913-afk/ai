@@ -11,4 +11,4 @@ print('Mid here')
 for i in s:
     print(i)
 
-print('Close here')
+print()
