@@ -1,0 +1,5 @@
+name = input("what is your name:")
+age =int(input("how old are you? "))
+print(f"Hello {name} You Are {age} Years Old.")
+email = int(input("enter your email:"))
+print(f"ok {name} your email verify")
